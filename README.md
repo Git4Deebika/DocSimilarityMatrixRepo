@@ -27,7 +27,13 @@ Add the following lines, replacing placeholders with your actual GCP project and
 GCP_PROJECT_ID=your-gcp-project-id
 GCP_REGION=your-gcp-region 
 
+
+
 ## Instructions to run 
+
+**GCloud CLI setup**
+1. Download and install Gcloud CLI
+2. From poweshell , run "Gcloud Auth login"
 
 **Prepare Your Documents**
 Place all your DOCX and RTF files in a single directory.
